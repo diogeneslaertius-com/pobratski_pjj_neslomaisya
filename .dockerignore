@@ -1,0 +1,10 @@
+*.pbf
+*.osm
+nodes.cache
+inspect_report.txt
+*.zip
+__pycache__/
+*.pyc
+.git
+.venv
+.pytest_cache
